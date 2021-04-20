@@ -1,2 +1,0 @@
-credit card: 123454564
-security: 1234
